@@ -12,12 +12,12 @@ keyword on Google. It results almost written in Java or Python.
 
 I write my **OWN** answer in JAVASCRIPT (js).
 
-**-REQUIREMENTS**
+**- REQUIREMENTS**
 
 nodejs
 
 
-**-HOW TO RUN IT**
+**- HOW TO RUN IT**
 
 1st:  right click inside the folder then run in terminal (linux)
 OR
@@ -28,6 +28,6 @@ open terminal, cd to downloaded files
 node parking_lot
 ```
 
-**-DISCLAIMER**
+**- DISCLAIMER**
 
 if you have better answer to solve the "multi-storey parking" problem, **clone** it.
